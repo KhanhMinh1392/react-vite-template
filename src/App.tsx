@@ -3,7 +3,7 @@ function App() {
   return (
     <main className="flex h-screen flex-col items-center justify-center">
       <h1 className="text-6xl font-bold text-gray-900">Hello Guys. This is React Template.</h1>
-      <div className="mb-6 mt-8 flex items-center gap-4">
+      <div className="mt-8 mb-6 flex items-center gap-4">
         <img src="./vite.svg" alt="vite_logo" width={160} height={160} />
         <p className="text-6xl">+</p>
         <img src={ReactLogo} alt="react_logo" width={160} height={160} />
